@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "67e03e1364dfd615810cee58"
+  },
+  "title": "Gaming Mouse Pro",
+  "description": "PHigh precision wireless gaming mouse with customizable buttons.",
+  "price": 59.99,
+  "category": "gaming_accessories",
+  "stock": 100,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742749203/azura-products/kbipm2abledyshh2h7on.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:00:03.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:00:03.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e03e7864dfd615810cee5a"
+  },
+  "title": "Mechanical Gaming Keyboard",
+  "description": "RGB backlit mechanical keyboard with tactile feedback and programmable keys.",
+  "price": 129.99,
+  "category": "gaming_accessories",
+  "stock": 70,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742749507/azura-products/mnwgsyxwocg1obrdnm0u.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:01:44.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:01:44.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e03ef964dfd615810cee5c"
+  },
+  "title": "Wireless Headset X",
+  "description": "Immersive surround sound headset designed for gamers.",
+  "price": 89.99,
+  "category": "gaming_accessories",
+  "stock": 70,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742749433/azura-products/crnwirufwmuldy1qujka.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:03:53.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:03:53.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e040c364dfd615810cee5e"
+  },
+  "title": "Ergonomic Office Chair",
+  "description": "Adjustable chair with lumbar support for long gaming or work sessions.",
+  "price": 249.99,
+  "category": "home_office",
+  "stock": 50,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742749891/azura-products/tkvtjwhldqwh2ffkgyph.avif",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:11:31.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:11:31.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0417764dfd615810cee60"
+  },
+  "title": "4k Ultra HD Monitor",
+  "description": "27-inch monitor with stunning 4K resolution and fast refresh rate.",
+  "price": 399.99,
+  "category": "electronics",
+  "stock": 20,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750058/azura-products/rk6dw9z8c3nye4e62p1i.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:14:31.030Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:14:31.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e041bc64dfd615810cee62"
+  },
+  "title": "Smartphone Pro Max",
+  "description": "Latest smartphone featuring cutting-edge technology and powerful camera system",
+  "price": 999.99,
+  "category": "electronics",
+  "stock": 40,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750139/azura-products/m4n6dm8uuzfvjlezsr0g.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:15:40.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:15:40.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e042a264dfd615810cee64"
+  },
+  "title": "Smartphone Pro Max",
+  "description": "Latest smartphone featuring cutting-edge technology and powerful camera system",
+  "price": 999.99,
+  "category": "electronics",
+  "stock": 40,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750370/azura-products/uoxap7xlbny9ejv5kqsj.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:19:30.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:19:30.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0430664dfd615810cee66"
+  },
+  "title": "Kitchen Blender",
+  "description": "High-speed blender perfect for smoothies, soups, and sauces.",
+  "price": 79.99,
+  "category": "kitchen_appliances",
+  "stock": 60,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750469/azura-products/vgq8kut1zwniuxwc9knk.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:21:10.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:21:10.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0436264dfd615810cee68"
+  },
+  "title": "Stainless Steel Knife Set",
+  "description": "Premium knife set for all your kitchen needs with ergonomic handles.",
+  "price": 99.99,
+  "category": "kitchen_appliances",
+  "stock": 80,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750561/azura-products/rqhds2cqw39ch0jmh8ap.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:22:42.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:22:42.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e043b464dfd615810cee6a"
+  },
+  "title": "Non-Stick Cookware Set",
+  "description": "10-piece non-stick cookware set perfect for everyday cooking.",
+  "price": 149.99,
+  "category": "kitchen_appliances",
+  "stock": 80,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750643/azura-products/oaile3lgycavwszbemla.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:24:04.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:24:04.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0440764dfd615810cee6c"
+  },
+  "title": "Men's Casual Jacket",
+  "description": "Stylish and comfortable jacket for everyday wear.",
+  "price": 79.99,
+  "category": "fashion",
+  "stock": 100,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750726/azura-products/b5xnzxc9192uqex4gpyl.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:25:27.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:25:27.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0445164dfd615810cee6e"
+  },
+  "title": "Women's Summer Dress",
+  "description": "Light and airy summer dress perfect for sunny days.",
+  "price": 49.99,
+  "category": "fashion",
+  "stock": 120,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750801/azura-products/il0ulbmpggq8ogu7g5te.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:26:41.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:26:41.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0448864dfd615810cee70"
+  },
+  "title": "Leather Handbag",
+  "description": "Premium quality leather handbag for all occasions.",
+  "price": 199.99,
+  "category": "fashion",
+  "stock": 110,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742750944/azura-products/nwcqbkq4gowjwrx2ehqq.avif",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:27:36.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:27:36.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0455664dfd615810cee72"
+  },
+  "title": "Wireless Earbuds",
+  "description": "Compact, high-quality wireless earbuds with noise cancellation.",
+  "price": 59.99,
+  "category": "fashion",
+  "stock": 150,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751061/azura-products/zswulvfdnpcked7gvlbx.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:31:02.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:31:02.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e045ba64dfd615810cee74"
+  },
+  "title": "Smartwatch Series 5",
+  "description": "Advanced smartwatch with fitness tracking and notifications.",
+  "price": 299.99,
+  "category": "electronics",
+  "stock": 70,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751347/azura-products/tfujeznp4lexmawksh2b.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:32:42.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:32:42.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e045eb64dfd615810cee76"
+  },
+  "title": "Home Theater System",
+  "description": "Immersive home theater system with surround sound speakers.",
+  "price": 499.99,
+  "category": "electronics",
+  "stock": 90,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751276/azura-products/evhwhgedo9giquh9zsvk.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:33:31.650Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:33:31.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e046f964dfd615810cee78"
+  },
+  "title": "Gaming Chair",
+  "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+  "price": 199.99,
+  "category": "gaming_accessories",
+  "stock": 90,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751481/azura-products/fjmmc7nbplkzezwxco0r.jpg",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:38:01.949Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:38:01.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0480464dfd615810cee7a"
+  },
+  "title": "Portable Bluetooth Speaker",
+  "description": "Compact, powerful Bluetooth speaker with long battery life.",
+  "price": 89.99,
+  "category": "electronics",
+  "stock": 50,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751747/azura-products/gb9pwlw9b7cfchs5gxqe.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:42:28.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:42:28.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0488264dfd615810cee7c"
+  },
+  "title": "Coffee Maker Deluxe",
+  "description": "Automatic coffee maker with customizable brew strength.",
+  "price": 129.99,
+  "category": "kitchen_appliances",
+  "stock": 55,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742751873/azura-products/ctxwkopkab574e1uieos.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:44:34.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:44:34.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e0494a64dfd615810cee7e"
+  },
+  "title": "Electric Kettle",
+  "description": "Fast-boiling electric kettle with auto shut-off feature.",
+  "price": 39.99,
+  "category": "kitchen_appliances",
+  "stock": 55,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742752073/azura-products/jakuxsetxn3sfz4cw3h9.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:47:54.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:47:54.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e049a364dfd615810cee80"
+  },
+  "title": "Designer Sunglasses",
+  "description": "Stylish designer sunglasses with UV protection.",
+  "price": 39.99,
+  "category": "fashion",
+  "stock": 80,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742752163/azura-products/gneig64y7lxqybmr92xg.png",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:49:23.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:49:23.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e04a4364dfd615810cee82"
+  },
+  "title": "E-reader",
+  "description": "Lightweight e-reader with high-resolution display and adjustable lighting",
+  "price": 12.5,
+  "category": "fashion",
+  "stock": 80,
+  "imageUrl": "https://res.cloudinary.com/dj0crotfr/image/upload/v1742752323/azura-products/s4iz2rrr9nuuvalduibn.webp",
+  "approved": false,
+  "createdAt": {
+    "$date": "2025-03-23T17:52:03.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:52:03.575Z"
+  },
+  "__v": 0
+}]

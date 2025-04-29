@@ -1,0 +1,22 @@
+[{
+  "_id": "60d8e3f2f20d4d6e908d6745",
+  "event": "product_view",
+  "user_id": "60c72b2f9b1d4e001c8e4d2f",
+  "product_id": "60d5c8b9b5e3a4d5a08a8b01",
+  "timestamp": "2023-06-10T10:00:00Z",
+  "metadata": {
+    "browser": "Chrome",
+    "os": "Windows"
+  }
+},
+{
+  "_id": "60d8e3f2f20d4d6e908d6746",
+  "event": "product_purchase",
+  "user_id": "60c72b2f9b1d4e001c8e4d31",
+  "product_id": "60d5c8b9b5e3a4d5a08a8b03",
+  "timestamp": "2023-06-15T12:00:00Z",
+  "metadata": {
+    "payment_method": "Stripe",
+    "transaction_id": "txn_12345"
+  }
+}]

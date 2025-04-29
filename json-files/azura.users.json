@@ -1,0 +1,45 @@
+[{
+  "_id": "60c72b2f9b1d4e001c8e4d2f",
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "$2b$10$H2.7r.rX6Y/xPJeCvPv/ue",
+  "role": "user",
+  "created_at": "2023-01-15T08:00:00Z"
+},
+{
+  "_id": "60c72b2f9b1d4e001c8e4d30",
+  "name": "Jane Smith",
+  "email": "obadeyi01@gmail.com",
+  "password": "$2b$10$V2Af8zGn.j2j41Exl/U5yO",
+  "role": "admin",
+  "created_at": "2023-02-05T09:00:00Z"
+},
+{
+  "_id": "60c72b2f9b1d4e001c8e4d31",
+  "name": "Michael Johnson",
+  "email": "michael@example.com",
+  "password": "$2b$10$gB7m.kHX/41/H.b5f/jxk2",
+  "role": "user",
+  "created_at": "2023-03-11T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "67e22a39354b0f369903d4e2"
+  },
+  "name": "seyi",
+  "email": "obadeyi04@gmail.com",
+  "password": "$2b$10$Mx46iBwsep56UzLzapEH9eP4QmrIftEckB7PsCNWftaWy/0y9moji",
+  "role": "user",
+  "suspended": false,
+  "createdAt": {
+    "$date": "2025-03-25T03:59:53.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T07:53:38.675Z"
+  },
+  "__v": 0,
+  "resetPasswordExpires": {
+    "$date": "2025-03-28T08:53:38.675Z"
+  },
+  "resetPasswordToken": "2c738d15892187662b60d57f7d971f69377b315a"
+}]

@@ -1,0 +1,12 @@
+[{
+  "_id": "60d6c3f2f20d4d6e908d6743",
+  "user": "60c72b2f9b1d4e001c8e4d31",
+  "product": "60d5c8b9b5e3a4d5a08a8b03",
+  "quantity": 1
+},
+{
+  "_id": "60d6c3f2f20d4d6e908d6744",
+  "user": "60c72b2f9b1d4e001c8e4d31",
+  "product": "60d5c8b9b5e3a4d5a08a8b01",
+  "quantity": 3
+}]
