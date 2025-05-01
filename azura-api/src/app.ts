@@ -19,7 +19,7 @@ import userSchema from "./schemas/user.schema";
 import contentSchema from "./schemas/content.schema";
 import adminSchema from "./schemas/admin.schema";
 import reviewSchema from "./schemas/review.schema";
-import categerySchema from "./schemas/categery.schema";
+import categorySchema from "./schemas/category.schema";
 
 import authResolvers from "./resolvers/auth.resolver";
 import productResolvers from "./resolvers/product.resolver";
@@ -30,7 +30,7 @@ import userResolvers from "./resolvers/user.resolver";
 import contentResolvers from "./resolvers/content.resolver";
 import adminResolvers from "./resolvers/admin.resolver";
 import reviewResolvers from "./resolvers/review.resolver";
-import categoryResolvers from "./resolvers/categery.resolver";
+import categoryResolvers from "./resolvers/category.resolver";
 
 import { verifyToken } from "./utils/jwt.util";
 import { createOrderAndClearCart } from "./services/orderService";
@@ -65,7 +65,7 @@ const typeDefs = mergeTypeDefs([
   contentSchema,
   adminSchema,
   reviewSchema,
-  categerySchema,
+  categorySchema,
 ]);
 
 const resolvers = mergeResolvers([
@@ -84,7 +84,6 @@ const resolvers = mergeResolvers([
 
 const app = express();
 
-// ✅ Global CORS middleware
 app.use(cors({
   origin: "*",
   credentials: true,
@@ -92,12 +91,10 @@ app.use(cors({
 
 const httpServer = http.createServer(app);
 
-// ✅ Health check endpoint
 app.get("/", (req, res) => {
   res.send("Azura API is running 🚀");
 });
 
-// Stripe webhook before other parsers
 app.post(
   "/webhook",
   bodyParser.raw({ type: "application/json" }),
@@ -126,7 +123,7 @@ app.post(
         if (user) {
           await sendOrderConfirmationEmail(user, order);
         }
-        console.log("Order created and email sent:", order._id.toString());
+        console.log("Order created and email sent:", order._id);
       } catch (err) {
         console.error("Error processing webhook:", err);
       }
